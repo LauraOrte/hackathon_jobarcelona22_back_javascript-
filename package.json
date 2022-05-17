@@ -1,5 +1,5 @@
 {
-  "name": "hackathon-jobarcelona22-back-javascript",
+  "name": "hackathon_jobarcelona22_back_javascript",
   "version": "1.0.0",
   "description": "Qualifying challenge for the IT JUNIOR Hackathon - JOBarcelona'22 organized by Nuwe that will take place at the Camp Nou on May 31, 2022.",
   "main": "index.js",
@@ -9,15 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript.git"
+    "url": "https://github.com/LauraOrte/hackathon_jobarcelona22_back_javascript-"
   },
   "keywords": [],
-  "author": "Daniel Españadero",
+  "author": "Laura Orte",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript/issues"
-  },
-  "homepage": "https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript#readme",
+  
+  "homepage": "https://github.com/LauraOrte/hackathon_jobarcelona22_back_javascript-/blob/main/README.md",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
