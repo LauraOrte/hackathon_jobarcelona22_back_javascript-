@@ -1,21 +1,9 @@
-# 👨🏻‍💻 JOBarcelona '22 | Back-end 👨🏻‍💻
+## JOBarcelona '22 | Back-end ##
 
-_This package has been developed from scratch by [Daniel Españadero](https://github.com/DanielEspanadero)._
 
-_This is one of the qualifying challenges that are part of the [JOBarcelona '22 online hackathon](https://nuwe.io/challenge/jobarcelona-'22-back-end). The result of this challenge will allow the winners to attend the face-to-face hackathon that will take place on May 31, 2022 at the Camp Nou._
+_The code to decrypt the password is located in the path `src/helpers/password-pdf.js`
 
-_The code to decrypt the password is located in the path `src/helpers/password-pdf.js` 😉_
 
-## Translations 💬
-
-_This README file is also available in other languages:_
-- [Catalan](https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript/blob/main/docs/README-cat.md)
-- [French](https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript/blob/main/docs/README-fr.md)
-- [German](https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript/blob/main/docs/README-de.md)
-- [Italian](https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript/blob/main/docs/README-it.md)
-- [Portuguese](https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript/blob/main/docs/README-pt.md)
-- [Spanish](https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript/blob/main/docs/README-es.md)
-- [Swedish](https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript/blob/main/docs/README-se.md)
 
 ## Goals
 _`JOBarcelona '22` has been created to meet the following specific needs:_
@@ -56,7 +44,6 @@ npm install
 
 _For the project to work correctly you have to enable the environment variables, for this you have to create a file with the name .env and enter the data you have in the .config.env template_
 
-![Demo](https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript/blob/main/docs/env.png)
 
 ## Commands to run ⌨️
 
@@ -126,14 +113,4 @@ http://localhost:3030/users
 * [bcryptjs](https://www.npmjs.com/package/bcryptjs) - Module to encrypt passwords.
 * [Dotenv](https://www.npmjs.com/package/dotenv) - Library to use environment variables.
 
-## Versioned 📌
 
-_I have used semantic versioning [SemVer](http://semver.org/) for this application._
-
-## Author ✒️
-
-* [Daniel Españadero](https://github.com/DanielEspanadero) - *All the project*
-
-## License 📄
-
-_This project is licensed under the MIT License - see the file [LICENSE](https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript/blob/main/LICENSE) for details._
